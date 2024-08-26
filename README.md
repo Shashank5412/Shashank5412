@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Shashank Patil</h1>
 <h3 align="center">Building the Next Generation of Cybersecurity Solutions</h3>
 
